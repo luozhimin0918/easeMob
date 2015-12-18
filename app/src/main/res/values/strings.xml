@@ -90,4 +90,6 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="progress">登录中</string>
+    <string name="is_contact_customer"></string>
 </resources>
